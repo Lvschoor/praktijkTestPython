@@ -6,6 +6,3 @@ print(f'The first letters of the names in the given list: {first_chars}')
 numbers = list(range(100))
 sum_of_numbers = sum(numbers)
 print('The total of all numbers in the given list:', sum_of_numbers)
-
-
-
